@@ -2,6 +2,11 @@
   "name": "paltin-dash",
   "type": "module",
   "version": "0.0.2",
+  "license": "SEE LICENSE IN LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorbites/paltin-dash.git"
+  },
   "scripts": {
     "dev": "astro dev --host",
     "build": "astro build",
